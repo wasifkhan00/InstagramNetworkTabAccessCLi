@@ -1,0 +1,11 @@
+{
+  "data": {
+    "xdt_api__v1__web__accounts__get_encrypted_credentials": {
+      "fr": "ASAc-rhMI_U7IzhajK2stIfCUQbN2PRM2Vj5JRahdfw5AU79hbPNuvDqHJ5L4_vaQfihHfZo4mPzBDqqW-Kbk1i-HeGFudizhWjBU-9npB6aLf9wFsXSvHi2MRDYZzKxtuL7ZOQ"
+    }
+  },
+  "extensions": {
+    "is_final": true
+  },
+  "status": "ok"
+}
